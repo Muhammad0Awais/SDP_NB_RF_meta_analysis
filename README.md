@@ -1,2 +1,3 @@
-# submission_AI_conference
-This repository contains the meta-analysis forest plots.
+# A meta-analytical comparison of Naive Bayes and Random Forest for software defect prediction
+
+This repo discusses the [paper](https://www.google.com)
