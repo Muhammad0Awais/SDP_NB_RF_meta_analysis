@@ -2,7 +2,7 @@
 
 [pre-print](https://www.researchgate.net/publication/350459831_A_meta-analytical_comparison_of_Naive_Bayes_and_Random_Forest_for_software_defect_prediction)
 
-To use this repo, clone the repo, run the jupyter notebook [Meta_analysis.ipynb](Meta_analysis.ipynb).
+To use this repo, clone the repo, and run the jupyter notebook [Meta_analysis.ipynb](Meta_analysis.ipynb).
 
 The notebook will load the data from the folder named _data_, containing a csv file. The properties of CSV file are as follows:
 - Title: title of the paper
